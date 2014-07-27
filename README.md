@@ -8,7 +8,7 @@ Assignment files for Coursera course "Getting and Cleaning Data"
 The dataset is geared toward a machine learning exercise, splitting the
 collected data into two separate datasets for training and testing. As the
 dataset is further broken out into separate files isolating the observed subject
-and the observed acivity from the data collected, it is necessary to consolidate
+and the observed activity from the data collected, it is necessary to consolidate
 the individual files into a dataset, then combine the testing and training data
 into a single dataset for aggregation.
 
