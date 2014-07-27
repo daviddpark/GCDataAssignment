@@ -83,7 +83,7 @@ lines <- c(lines, "### SUBJECT","Integer identifying subject under observation."
 lines <- c(lines, "")
 lines <- c(lines, "### ACTIVITY","String identifying activity under observation.")
 lines <- c(lines, "")
-for(label in cols) {
+for(label in rev(cols)) {
     origLabel <- features[which(features$newLabel==label),]["V2"]
     msg <- paste("Average of the original data set's ",
                origLabel, " values.")
