@@ -20,7 +20,7 @@ setwd("./UCI HAR Dataset")
 features <- read.table("features.txt", header=FALSE, stringsAsFactors=FALSE)
 # Function to clean the labels up
 cleanLabel <- function(label) {
-    result <- paste("Average", sub("^t", "Time", label))
+    result <- sub("^t", "Time", label)
     result <- sub("^f", "Frequency", result)
     result <- sub("\\(", "", result, perl=T)
     result <- sub("\\)", "", result, perl=T)
@@ -29,7 +29,8 @@ cleanLabel <- function(label) {
     result <- sub("Acc", "Accel", result)
     result <- sub("mean", "Mean", result)
     result <- sub("std", "Std", result)
-    return(result)
+    result <- sub("angle", "Angle", result)
+    return(paste("Average", result, sep=""))
 }
 features$newLabel <- labels <- lapply(features[,2], cleanLabel)
 
@@ -78,15 +79,15 @@ write.table(tidy, file="IMU_data_tidy.txt", row.names=F)
 
 # Create the CODEBOOK.md file
 lines <- c("IMU DataSet Codebook","====================","")
-lines <- c(lines, "# SUBJECT","Integer identifying subject under observation.")
+lines <- c(lines, "### SUBJECT","Integer identifying subject under observation.")
 lines <- c(lines, "")
-lines <- c(lines, "# ACTIVITY","String identifying activity under observation.")
+lines <- c(lines, "### ACTIVITY","String identifying activity under observation.")
 lines <- c(lines, "")
 for(label in labels) {
     origLabel <- features[which(features$newLabel==label),]["V2"]
     msg <- paste("Average of the original data set's ",
                origLabel, " values.")
-    lines <- c(lines, paste("# ",label))
+    lines <- c(lines, paste("### ",label))
     lines <- c(lines, msg)
     lines <- c(lines, " * Numeric value between -1 and 1")
     lines <- c(lines, "")

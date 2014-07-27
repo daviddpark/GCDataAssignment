@@ -1,2253 +1,2253 @@
 IMU DataSet Codebook
 ====================
 
-# SUBJECT
+### SUBJECT
 Integer identifying subject under observation.
 
-# ACTIVITY
+### ACTIVITY
 String identifying activity under observation.
 
-#  Average TimeBodyAccelMeanX
+###  AverageTimeBodyAccelMeanX
 Average of the original data set's  tBodyAcc-mean()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMeanY
+###  AverageTimeBodyAccelMeanY
 Average of the original data set's  tBodyAcc-mean()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMeanZ
+###  AverageTimeBodyAccelMeanZ
 Average of the original data set's  tBodyAcc-mean()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelStdX
+###  AverageTimeBodyAccelStdX
 Average of the original data set's  tBodyAcc-std()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelStdY
+###  AverageTimeBodyAccelStdY
 Average of the original data set's  tBodyAcc-std()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelStdZ
+###  AverageTimeBodyAccelStdZ
 Average of the original data set's  tBodyAcc-std()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelmadX
+###  AverageTimeBodyAccelmadX
 Average of the original data set's  tBodyAcc-mad()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelmadY
+###  AverageTimeBodyAccelmadY
 Average of the original data set's  tBodyAcc-mad()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelmadZ
+###  AverageTimeBodyAccelmadZ
 Average of the original data set's  tBodyAcc-mad()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelmaxX
+###  AverageTimeBodyAccelmaxX
 Average of the original data set's  tBodyAcc-max()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelmaxY
+###  AverageTimeBodyAccelmaxY
 Average of the original data set's  tBodyAcc-max()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelmaxZ
+###  AverageTimeBodyAccelmaxZ
 Average of the original data set's  tBodyAcc-max()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelminX
+###  AverageTimeBodyAccelminX
 Average of the original data set's  tBodyAcc-min()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelminY
+###  AverageTimeBodyAccelminY
 Average of the original data set's  tBodyAcc-min()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelminZ
+###  AverageTimeBodyAccelminZ
 Average of the original data set's  tBodyAcc-min()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelsma
+###  AverageTimeBodyAccelsma
 Average of the original data set's  tBodyAcc-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelenergyX
+###  AverageTimeBodyAccelenergyX
 Average of the original data set's  tBodyAcc-energy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelenergyY
+###  AverageTimeBodyAccelenergyY
 Average of the original data set's  tBodyAcc-energy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelenergyZ
+###  AverageTimeBodyAccelenergyZ
 Average of the original data set's  tBodyAcc-energy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAcceliqrX
+###  AverageTimeBodyAcceliqrX
 Average of the original data set's  tBodyAcc-iqr()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAcceliqrY
+###  AverageTimeBodyAcceliqrY
 Average of the original data set's  tBodyAcc-iqr()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAcceliqrZ
+###  AverageTimeBodyAcceliqrZ
 Average of the original data set's  tBodyAcc-iqr()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelentropyX
+###  AverageTimeBodyAccelentropyX
 Average of the original data set's  tBodyAcc-entropy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelentropyY
+###  AverageTimeBodyAccelentropyY
 Average of the original data set's  tBodyAcc-entropy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelentropyZ
+###  AverageTimeBodyAccelentropyZ
 Average of the original data set's  tBodyAcc-entropy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffX1
+###  AverageTimeBodyAccelarCoeffX1
 Average of the original data set's  tBodyAcc-arCoeff()-X,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffX2
+###  AverageTimeBodyAccelarCoeffX2
 Average of the original data set's  tBodyAcc-arCoeff()-X,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffX3
+###  AverageTimeBodyAccelarCoeffX3
 Average of the original data set's  tBodyAcc-arCoeff()-X,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffX4
+###  AverageTimeBodyAccelarCoeffX4
 Average of the original data set's  tBodyAcc-arCoeff()-X,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffY1
+###  AverageTimeBodyAccelarCoeffY1
 Average of the original data set's  tBodyAcc-arCoeff()-Y,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffY2
+###  AverageTimeBodyAccelarCoeffY2
 Average of the original data set's  tBodyAcc-arCoeff()-Y,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffY3
+###  AverageTimeBodyAccelarCoeffY3
 Average of the original data set's  tBodyAcc-arCoeff()-Y,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffY4
+###  AverageTimeBodyAccelarCoeffY4
 Average of the original data set's  tBodyAcc-arCoeff()-Y,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffZ1
+###  AverageTimeBodyAccelarCoeffZ1
 Average of the original data set's  tBodyAcc-arCoeff()-Z,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffZ2
+###  AverageTimeBodyAccelarCoeffZ2
 Average of the original data set's  tBodyAcc-arCoeff()-Z,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffZ3
+###  AverageTimeBodyAccelarCoeffZ3
 Average of the original data set's  tBodyAcc-arCoeff()-Z,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelarCoeffZ4
+###  AverageTimeBodyAccelarCoeffZ4
 Average of the original data set's  tBodyAcc-arCoeff()-Z,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelcorrelationXY
+###  AverageTimeBodyAccelcorrelationXY
 Average of the original data set's  tBodyAcc-correlation()-X,Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelcorrelationXZ
+###  AverageTimeBodyAccelcorrelationXZ
 Average of the original data set's  tBodyAcc-correlation()-X,Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelcorrelationYZ
+###  AverageTimeBodyAccelcorrelationYZ
 Average of the original data set's  tBodyAcc-correlation()-Y,Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMeanX
+###  AverageTimeGravityAccelMeanX
 Average of the original data set's  tGravityAcc-mean()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMeanY
+###  AverageTimeGravityAccelMeanY
 Average of the original data set's  tGravityAcc-mean()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMeanZ
+###  AverageTimeGravityAccelMeanZ
 Average of the original data set's  tGravityAcc-mean()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelStdX
+###  AverageTimeGravityAccelStdX
 Average of the original data set's  tGravityAcc-std()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelStdY
+###  AverageTimeGravityAccelStdY
 Average of the original data set's  tGravityAcc-std()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelStdZ
+###  AverageTimeGravityAccelStdZ
 Average of the original data set's  tGravityAcc-std()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelmadX
+###  AverageTimeGravityAccelmadX
 Average of the original data set's  tGravityAcc-mad()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelmadY
+###  AverageTimeGravityAccelmadY
 Average of the original data set's  tGravityAcc-mad()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelmadZ
+###  AverageTimeGravityAccelmadZ
 Average of the original data set's  tGravityAcc-mad()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelmaxX
+###  AverageTimeGravityAccelmaxX
 Average of the original data set's  tGravityAcc-max()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelmaxY
+###  AverageTimeGravityAccelmaxY
 Average of the original data set's  tGravityAcc-max()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelmaxZ
+###  AverageTimeGravityAccelmaxZ
 Average of the original data set's  tGravityAcc-max()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelminX
+###  AverageTimeGravityAccelminX
 Average of the original data set's  tGravityAcc-min()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelminY
+###  AverageTimeGravityAccelminY
 Average of the original data set's  tGravityAcc-min()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelminZ
+###  AverageTimeGravityAccelminZ
 Average of the original data set's  tGravityAcc-min()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelsma
+###  AverageTimeGravityAccelsma
 Average of the original data set's  tGravityAcc-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelenergyX
+###  AverageTimeGravityAccelenergyX
 Average of the original data set's  tGravityAcc-energy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelenergyY
+###  AverageTimeGravityAccelenergyY
 Average of the original data set's  tGravityAcc-energy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelenergyZ
+###  AverageTimeGravityAccelenergyZ
 Average of the original data set's  tGravityAcc-energy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAcceliqrX
+###  AverageTimeGravityAcceliqrX
 Average of the original data set's  tGravityAcc-iqr()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAcceliqrY
+###  AverageTimeGravityAcceliqrY
 Average of the original data set's  tGravityAcc-iqr()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAcceliqrZ
+###  AverageTimeGravityAcceliqrZ
 Average of the original data set's  tGravityAcc-iqr()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelentropyX
+###  AverageTimeGravityAccelentropyX
 Average of the original data set's  tGravityAcc-entropy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelentropyY
+###  AverageTimeGravityAccelentropyY
 Average of the original data set's  tGravityAcc-entropy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelentropyZ
+###  AverageTimeGravityAccelentropyZ
 Average of the original data set's  tGravityAcc-entropy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffX1
+###  AverageTimeGravityAccelarCoeffX1
 Average of the original data set's  tGravityAcc-arCoeff()-X,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffX2
+###  AverageTimeGravityAccelarCoeffX2
 Average of the original data set's  tGravityAcc-arCoeff()-X,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffX3
+###  AverageTimeGravityAccelarCoeffX3
 Average of the original data set's  tGravityAcc-arCoeff()-X,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffX4
+###  AverageTimeGravityAccelarCoeffX4
 Average of the original data set's  tGravityAcc-arCoeff()-X,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffY1
+###  AverageTimeGravityAccelarCoeffY1
 Average of the original data set's  tGravityAcc-arCoeff()-Y,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffY2
+###  AverageTimeGravityAccelarCoeffY2
 Average of the original data set's  tGravityAcc-arCoeff()-Y,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffY3
+###  AverageTimeGravityAccelarCoeffY3
 Average of the original data set's  tGravityAcc-arCoeff()-Y,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffY4
+###  AverageTimeGravityAccelarCoeffY4
 Average of the original data set's  tGravityAcc-arCoeff()-Y,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffZ1
+###  AverageTimeGravityAccelarCoeffZ1
 Average of the original data set's  tGravityAcc-arCoeff()-Z,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffZ2
+###  AverageTimeGravityAccelarCoeffZ2
 Average of the original data set's  tGravityAcc-arCoeff()-Z,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffZ3
+###  AverageTimeGravityAccelarCoeffZ3
 Average of the original data set's  tGravityAcc-arCoeff()-Z,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelarCoeffZ4
+###  AverageTimeGravityAccelarCoeffZ4
 Average of the original data set's  tGravityAcc-arCoeff()-Z,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelcorrelationXY
+###  AverageTimeGravityAccelcorrelationXY
 Average of the original data set's  tGravityAcc-correlation()-X,Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelcorrelationXZ
+###  AverageTimeGravityAccelcorrelationXZ
 Average of the original data set's  tGravityAcc-correlation()-X,Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelcorrelationYZ
+###  AverageTimeGravityAccelcorrelationYZ
 Average of the original data set's  tGravityAcc-correlation()-Y,Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMeanX
+###  AverageTimeBodyAccelJerkMeanX
 Average of the original data set's  tBodyAccJerk-mean()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMeanY
+###  AverageTimeBodyAccelJerkMeanY
 Average of the original data set's  tBodyAccJerk-mean()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMeanZ
+###  AverageTimeBodyAccelJerkMeanZ
 Average of the original data set's  tBodyAccJerk-mean()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkStdX
+###  AverageTimeBodyAccelJerkStdX
 Average of the original data set's  tBodyAccJerk-std()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkStdY
+###  AverageTimeBodyAccelJerkStdY
 Average of the original data set's  tBodyAccJerk-std()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkStdZ
+###  AverageTimeBodyAccelJerkStdZ
 Average of the original data set's  tBodyAccJerk-std()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkmadX
+###  AverageTimeBodyAccelJerkmadX
 Average of the original data set's  tBodyAccJerk-mad()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkmadY
+###  AverageTimeBodyAccelJerkmadY
 Average of the original data set's  tBodyAccJerk-mad()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkmadZ
+###  AverageTimeBodyAccelJerkmadZ
 Average of the original data set's  tBodyAccJerk-mad()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkmaxX
+###  AverageTimeBodyAccelJerkmaxX
 Average of the original data set's  tBodyAccJerk-max()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkmaxY
+###  AverageTimeBodyAccelJerkmaxY
 Average of the original data set's  tBodyAccJerk-max()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkmaxZ
+###  AverageTimeBodyAccelJerkmaxZ
 Average of the original data set's  tBodyAccJerk-max()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkminX
+###  AverageTimeBodyAccelJerkminX
 Average of the original data set's  tBodyAccJerk-min()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkminY
+###  AverageTimeBodyAccelJerkminY
 Average of the original data set's  tBodyAccJerk-min()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkminZ
+###  AverageTimeBodyAccelJerkminZ
 Average of the original data set's  tBodyAccJerk-min()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerksma
+###  AverageTimeBodyAccelJerksma
 Average of the original data set's  tBodyAccJerk-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkenergyX
+###  AverageTimeBodyAccelJerkenergyX
 Average of the original data set's  tBodyAccJerk-energy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkenergyY
+###  AverageTimeBodyAccelJerkenergyY
 Average of the original data set's  tBodyAccJerk-energy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkenergyZ
+###  AverageTimeBodyAccelJerkenergyZ
 Average of the original data set's  tBodyAccJerk-energy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkiqrX
+###  AverageTimeBodyAccelJerkiqrX
 Average of the original data set's  tBodyAccJerk-iqr()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkiqrY
+###  AverageTimeBodyAccelJerkiqrY
 Average of the original data set's  tBodyAccJerk-iqr()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkiqrZ
+###  AverageTimeBodyAccelJerkiqrZ
 Average of the original data set's  tBodyAccJerk-iqr()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkentropyX
+###  AverageTimeBodyAccelJerkentropyX
 Average of the original data set's  tBodyAccJerk-entropy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkentropyY
+###  AverageTimeBodyAccelJerkentropyY
 Average of the original data set's  tBodyAccJerk-entropy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkentropyZ
+###  AverageTimeBodyAccelJerkentropyZ
 Average of the original data set's  tBodyAccJerk-entropy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffX1
+###  AverageTimeBodyAccelJerkarCoeffX1
 Average of the original data set's  tBodyAccJerk-arCoeff()-X,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffX2
+###  AverageTimeBodyAccelJerkarCoeffX2
 Average of the original data set's  tBodyAccJerk-arCoeff()-X,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffX3
+###  AverageTimeBodyAccelJerkarCoeffX3
 Average of the original data set's  tBodyAccJerk-arCoeff()-X,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffX4
+###  AverageTimeBodyAccelJerkarCoeffX4
 Average of the original data set's  tBodyAccJerk-arCoeff()-X,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffY1
+###  AverageTimeBodyAccelJerkarCoeffY1
 Average of the original data set's  tBodyAccJerk-arCoeff()-Y,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffY2
+###  AverageTimeBodyAccelJerkarCoeffY2
 Average of the original data set's  tBodyAccJerk-arCoeff()-Y,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffY3
+###  AverageTimeBodyAccelJerkarCoeffY3
 Average of the original data set's  tBodyAccJerk-arCoeff()-Y,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffY4
+###  AverageTimeBodyAccelJerkarCoeffY4
 Average of the original data set's  tBodyAccJerk-arCoeff()-Y,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffZ1
+###  AverageTimeBodyAccelJerkarCoeffZ1
 Average of the original data set's  tBodyAccJerk-arCoeff()-Z,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffZ2
+###  AverageTimeBodyAccelJerkarCoeffZ2
 Average of the original data set's  tBodyAccJerk-arCoeff()-Z,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffZ3
+###  AverageTimeBodyAccelJerkarCoeffZ3
 Average of the original data set's  tBodyAccJerk-arCoeff()-Z,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkarCoeffZ4
+###  AverageTimeBodyAccelJerkarCoeffZ4
 Average of the original data set's  tBodyAccJerk-arCoeff()-Z,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkcorrelationXY
+###  AverageTimeBodyAccelJerkcorrelationXY
 Average of the original data set's  tBodyAccJerk-correlation()-X,Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkcorrelationXZ
+###  AverageTimeBodyAccelJerkcorrelationXZ
 Average of the original data set's  tBodyAccJerk-correlation()-X,Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkcorrelationYZ
+###  AverageTimeBodyAccelJerkcorrelationYZ
 Average of the original data set's  tBodyAccJerk-correlation()-Y,Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMeanX
+###  AverageTimeBodyGyroMeanX
 Average of the original data set's  tBodyGyro-mean()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMeanY
+###  AverageTimeBodyGyroMeanY
 Average of the original data set's  tBodyGyro-mean()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMeanZ
+###  AverageTimeBodyGyroMeanZ
 Average of the original data set's  tBodyGyro-mean()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroStdX
+###  AverageTimeBodyGyroStdX
 Average of the original data set's  tBodyGyro-std()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroStdY
+###  AverageTimeBodyGyroStdY
 Average of the original data set's  tBodyGyro-std()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroStdZ
+###  AverageTimeBodyGyroStdZ
 Average of the original data set's  tBodyGyro-std()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyromadX
+###  AverageTimeBodyGyromadX
 Average of the original data set's  tBodyGyro-mad()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyromadY
+###  AverageTimeBodyGyromadY
 Average of the original data set's  tBodyGyro-mad()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyromadZ
+###  AverageTimeBodyGyromadZ
 Average of the original data set's  tBodyGyro-mad()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyromaxX
+###  AverageTimeBodyGyromaxX
 Average of the original data set's  tBodyGyro-max()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyromaxY
+###  AverageTimeBodyGyromaxY
 Average of the original data set's  tBodyGyro-max()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyromaxZ
+###  AverageTimeBodyGyromaxZ
 Average of the original data set's  tBodyGyro-max()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyrominX
+###  AverageTimeBodyGyrominX
 Average of the original data set's  tBodyGyro-min()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyrominY
+###  AverageTimeBodyGyrominY
 Average of the original data set's  tBodyGyro-min()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyrominZ
+###  AverageTimeBodyGyrominZ
 Average of the original data set's  tBodyGyro-min()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyrosma
+###  AverageTimeBodyGyrosma
 Average of the original data set's  tBodyGyro-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroenergyX
+###  AverageTimeBodyGyroenergyX
 Average of the original data set's  tBodyGyro-energy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroenergyY
+###  AverageTimeBodyGyroenergyY
 Average of the original data set's  tBodyGyro-energy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroenergyZ
+###  AverageTimeBodyGyroenergyZ
 Average of the original data set's  tBodyGyro-energy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroiqrX
+###  AverageTimeBodyGyroiqrX
 Average of the original data set's  tBodyGyro-iqr()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroiqrY
+###  AverageTimeBodyGyroiqrY
 Average of the original data set's  tBodyGyro-iqr()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroiqrZ
+###  AverageTimeBodyGyroiqrZ
 Average of the original data set's  tBodyGyro-iqr()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroentropyX
+###  AverageTimeBodyGyroentropyX
 Average of the original data set's  tBodyGyro-entropy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroentropyY
+###  AverageTimeBodyGyroentropyY
 Average of the original data set's  tBodyGyro-entropy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroentropyZ
+###  AverageTimeBodyGyroentropyZ
 Average of the original data set's  tBodyGyro-entropy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffX1
+###  AverageTimeBodyGyroarCoeffX1
 Average of the original data set's  tBodyGyro-arCoeff()-X,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffX2
+###  AverageTimeBodyGyroarCoeffX2
 Average of the original data set's  tBodyGyro-arCoeff()-X,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffX3
+###  AverageTimeBodyGyroarCoeffX3
 Average of the original data set's  tBodyGyro-arCoeff()-X,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffX4
+###  AverageTimeBodyGyroarCoeffX4
 Average of the original data set's  tBodyGyro-arCoeff()-X,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffY1
+###  AverageTimeBodyGyroarCoeffY1
 Average of the original data set's  tBodyGyro-arCoeff()-Y,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffY2
+###  AverageTimeBodyGyroarCoeffY2
 Average of the original data set's  tBodyGyro-arCoeff()-Y,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffY3
+###  AverageTimeBodyGyroarCoeffY3
 Average of the original data set's  tBodyGyro-arCoeff()-Y,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffY4
+###  AverageTimeBodyGyroarCoeffY4
 Average of the original data set's  tBodyGyro-arCoeff()-Y,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffZ1
+###  AverageTimeBodyGyroarCoeffZ1
 Average of the original data set's  tBodyGyro-arCoeff()-Z,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffZ2
+###  AverageTimeBodyGyroarCoeffZ2
 Average of the original data set's  tBodyGyro-arCoeff()-Z,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffZ3
+###  AverageTimeBodyGyroarCoeffZ3
 Average of the original data set's  tBodyGyro-arCoeff()-Z,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroarCoeffZ4
+###  AverageTimeBodyGyroarCoeffZ4
 Average of the original data set's  tBodyGyro-arCoeff()-Z,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyrocorrelationXY
+###  AverageTimeBodyGyrocorrelationXY
 Average of the original data set's  tBodyGyro-correlation()-X,Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyrocorrelationXZ
+###  AverageTimeBodyGyrocorrelationXZ
 Average of the original data set's  tBodyGyro-correlation()-X,Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyrocorrelationYZ
+###  AverageTimeBodyGyrocorrelationYZ
 Average of the original data set's  tBodyGyro-correlation()-Y,Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMeanX
+###  AverageTimeBodyGyroJerkMeanX
 Average of the original data set's  tBodyGyroJerk-mean()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMeanY
+###  AverageTimeBodyGyroJerkMeanY
 Average of the original data set's  tBodyGyroJerk-mean()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMeanZ
+###  AverageTimeBodyGyroJerkMeanZ
 Average of the original data set's  tBodyGyroJerk-mean()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkStdX
+###  AverageTimeBodyGyroJerkStdX
 Average of the original data set's  tBodyGyroJerk-std()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkStdY
+###  AverageTimeBodyGyroJerkStdY
 Average of the original data set's  tBodyGyroJerk-std()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkStdZ
+###  AverageTimeBodyGyroJerkStdZ
 Average of the original data set's  tBodyGyroJerk-std()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkmadX
+###  AverageTimeBodyGyroJerkmadX
 Average of the original data set's  tBodyGyroJerk-mad()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkmadY
+###  AverageTimeBodyGyroJerkmadY
 Average of the original data set's  tBodyGyroJerk-mad()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkmadZ
+###  AverageTimeBodyGyroJerkmadZ
 Average of the original data set's  tBodyGyroJerk-mad()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkmaxX
+###  AverageTimeBodyGyroJerkmaxX
 Average of the original data set's  tBodyGyroJerk-max()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkmaxY
+###  AverageTimeBodyGyroJerkmaxY
 Average of the original data set's  tBodyGyroJerk-max()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkmaxZ
+###  AverageTimeBodyGyroJerkmaxZ
 Average of the original data set's  tBodyGyroJerk-max()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkminX
+###  AverageTimeBodyGyroJerkminX
 Average of the original data set's  tBodyGyroJerk-min()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkminY
+###  AverageTimeBodyGyroJerkminY
 Average of the original data set's  tBodyGyroJerk-min()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkminZ
+###  AverageTimeBodyGyroJerkminZ
 Average of the original data set's  tBodyGyroJerk-min()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerksma
+###  AverageTimeBodyGyroJerksma
 Average of the original data set's  tBodyGyroJerk-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkenergyX
+###  AverageTimeBodyGyroJerkenergyX
 Average of the original data set's  tBodyGyroJerk-energy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkenergyY
+###  AverageTimeBodyGyroJerkenergyY
 Average of the original data set's  tBodyGyroJerk-energy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkenergyZ
+###  AverageTimeBodyGyroJerkenergyZ
 Average of the original data set's  tBodyGyroJerk-energy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkiqrX
+###  AverageTimeBodyGyroJerkiqrX
 Average of the original data set's  tBodyGyroJerk-iqr()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkiqrY
+###  AverageTimeBodyGyroJerkiqrY
 Average of the original data set's  tBodyGyroJerk-iqr()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkiqrZ
+###  AverageTimeBodyGyroJerkiqrZ
 Average of the original data set's  tBodyGyroJerk-iqr()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkentropyX
+###  AverageTimeBodyGyroJerkentropyX
 Average of the original data set's  tBodyGyroJerk-entropy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkentropyY
+###  AverageTimeBodyGyroJerkentropyY
 Average of the original data set's  tBodyGyroJerk-entropy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkentropyZ
+###  AverageTimeBodyGyroJerkentropyZ
 Average of the original data set's  tBodyGyroJerk-entropy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffX1
+###  AverageTimeBodyGyroJerkarCoeffX1
 Average of the original data set's  tBodyGyroJerk-arCoeff()-X,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffX2
+###  AverageTimeBodyGyroJerkarCoeffX2
 Average of the original data set's  tBodyGyroJerk-arCoeff()-X,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffX3
+###  AverageTimeBodyGyroJerkarCoeffX3
 Average of the original data set's  tBodyGyroJerk-arCoeff()-X,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffX4
+###  AverageTimeBodyGyroJerkarCoeffX4
 Average of the original data set's  tBodyGyroJerk-arCoeff()-X,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffY1
+###  AverageTimeBodyGyroJerkarCoeffY1
 Average of the original data set's  tBodyGyroJerk-arCoeff()-Y,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffY2
+###  AverageTimeBodyGyroJerkarCoeffY2
 Average of the original data set's  tBodyGyroJerk-arCoeff()-Y,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffY3
+###  AverageTimeBodyGyroJerkarCoeffY3
 Average of the original data set's  tBodyGyroJerk-arCoeff()-Y,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffY4
+###  AverageTimeBodyGyroJerkarCoeffY4
 Average of the original data set's  tBodyGyroJerk-arCoeff()-Y,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffZ1
+###  AverageTimeBodyGyroJerkarCoeffZ1
 Average of the original data set's  tBodyGyroJerk-arCoeff()-Z,1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffZ2
+###  AverageTimeBodyGyroJerkarCoeffZ2
 Average of the original data set's  tBodyGyroJerk-arCoeff()-Z,2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffZ3
+###  AverageTimeBodyGyroJerkarCoeffZ3
 Average of the original data set's  tBodyGyroJerk-arCoeff()-Z,3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkarCoeffZ4
+###  AverageTimeBodyGyroJerkarCoeffZ4
 Average of the original data set's  tBodyGyroJerk-arCoeff()-Z,4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkcorrelationXY
+###  AverageTimeBodyGyroJerkcorrelationXY
 Average of the original data set's  tBodyGyroJerk-correlation()-X,Y  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkcorrelationXZ
+###  AverageTimeBodyGyroJerkcorrelationXZ
 Average of the original data set's  tBodyGyroJerk-correlation()-X,Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkcorrelationYZ
+###  AverageTimeBodyGyroJerkcorrelationYZ
 Average of the original data set's  tBodyGyroJerk-correlation()-Y,Z  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagMean
+###  AverageTimeBodyAccelMagMean
 Average of the original data set's  tBodyAccMag-mean()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagStd
+###  AverageTimeBodyAccelMagStd
 Average of the original data set's  tBodyAccMag-std()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagmad
+###  AverageTimeBodyAccelMagmad
 Average of the original data set's  tBodyAccMag-mad()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagmax
+###  AverageTimeBodyAccelMagmax
 Average of the original data set's  tBodyAccMag-max()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagmin
+###  AverageTimeBodyAccelMagmin
 Average of the original data set's  tBodyAccMag-min()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagsma
+###  AverageTimeBodyAccelMagsma
 Average of the original data set's  tBodyAccMag-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagenergy
+###  AverageTimeBodyAccelMagenergy
 Average of the original data set's  tBodyAccMag-energy()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagiqr
+###  AverageTimeBodyAccelMagiqr
 Average of the original data set's  tBodyAccMag-iqr()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagentropy
+###  AverageTimeBodyAccelMagentropy
 Average of the original data set's  tBodyAccMag-entropy()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagarCoeff1
+###  AverageTimeBodyAccelMagarCoeff1
 Average of the original data set's  tBodyAccMag-arCoeff()1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagarCoeff2
+###  AverageTimeBodyAccelMagarCoeff2
 Average of the original data set's  tBodyAccMag-arCoeff()2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagarCoeff3
+###  AverageTimeBodyAccelMagarCoeff3
 Average of the original data set's  tBodyAccMag-arCoeff()3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelMagarCoeff4
+###  AverageTimeBodyAccelMagarCoeff4
 Average of the original data set's  tBodyAccMag-arCoeff()4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagMean
+###  AverageTimeGravityAccelMagMean
 Average of the original data set's  tGravityAccMag-mean()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagStd
+###  AverageTimeGravityAccelMagStd
 Average of the original data set's  tGravityAccMag-std()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagmad
+###  AverageTimeGravityAccelMagmad
 Average of the original data set's  tGravityAccMag-mad()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagmax
+###  AverageTimeGravityAccelMagmax
 Average of the original data set's  tGravityAccMag-max()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagmin
+###  AverageTimeGravityAccelMagmin
 Average of the original data set's  tGravityAccMag-min()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagsma
+###  AverageTimeGravityAccelMagsma
 Average of the original data set's  tGravityAccMag-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagenergy
+###  AverageTimeGravityAccelMagenergy
 Average of the original data set's  tGravityAccMag-energy()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagiqr
+###  AverageTimeGravityAccelMagiqr
 Average of the original data set's  tGravityAccMag-iqr()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagentropy
+###  AverageTimeGravityAccelMagentropy
 Average of the original data set's  tGravityAccMag-entropy()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagarCoeff1
+###  AverageTimeGravityAccelMagarCoeff1
 Average of the original data set's  tGravityAccMag-arCoeff()1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagarCoeff2
+###  AverageTimeGravityAccelMagarCoeff2
 Average of the original data set's  tGravityAccMag-arCoeff()2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagarCoeff3
+###  AverageTimeGravityAccelMagarCoeff3
 Average of the original data set's  tGravityAccMag-arCoeff()3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeGravityAccelMagarCoeff4
+###  AverageTimeGravityAccelMagarCoeff4
 Average of the original data set's  tGravityAccMag-arCoeff()4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagMean
+###  AverageTimeBodyAccelJerkMagMean
 Average of the original data set's  tBodyAccJerkMag-mean()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagStd
+###  AverageTimeBodyAccelJerkMagStd
 Average of the original data set's  tBodyAccJerkMag-std()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagmad
+###  AverageTimeBodyAccelJerkMagmad
 Average of the original data set's  tBodyAccJerkMag-mad()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagmax
+###  AverageTimeBodyAccelJerkMagmax
 Average of the original data set's  tBodyAccJerkMag-max()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagmin
+###  AverageTimeBodyAccelJerkMagmin
 Average of the original data set's  tBodyAccJerkMag-min()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagsma
+###  AverageTimeBodyAccelJerkMagsma
 Average of the original data set's  tBodyAccJerkMag-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagenergy
+###  AverageTimeBodyAccelJerkMagenergy
 Average of the original data set's  tBodyAccJerkMag-energy()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagiqr
+###  AverageTimeBodyAccelJerkMagiqr
 Average of the original data set's  tBodyAccJerkMag-iqr()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagentropy
+###  AverageTimeBodyAccelJerkMagentropy
 Average of the original data set's  tBodyAccJerkMag-entropy()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagarCoeff1
+###  AverageTimeBodyAccelJerkMagarCoeff1
 Average of the original data set's  tBodyAccJerkMag-arCoeff()1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagarCoeff2
+###  AverageTimeBodyAccelJerkMagarCoeff2
 Average of the original data set's  tBodyAccJerkMag-arCoeff()2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagarCoeff3
+###  AverageTimeBodyAccelJerkMagarCoeff3
 Average of the original data set's  tBodyAccJerkMag-arCoeff()3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyAccelJerkMagarCoeff4
+###  AverageTimeBodyAccelJerkMagarCoeff4
 Average of the original data set's  tBodyAccJerkMag-arCoeff()4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagMean
+###  AverageTimeBodyGyroMagMean
 Average of the original data set's  tBodyGyroMag-mean()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagStd
+###  AverageTimeBodyGyroMagStd
 Average of the original data set's  tBodyGyroMag-std()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagmad
+###  AverageTimeBodyGyroMagmad
 Average of the original data set's  tBodyGyroMag-mad()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagmax
+###  AverageTimeBodyGyroMagmax
 Average of the original data set's  tBodyGyroMag-max()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagmin
+###  AverageTimeBodyGyroMagmin
 Average of the original data set's  tBodyGyroMag-min()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagsma
+###  AverageTimeBodyGyroMagsma
 Average of the original data set's  tBodyGyroMag-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagenergy
+###  AverageTimeBodyGyroMagenergy
 Average of the original data set's  tBodyGyroMag-energy()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagiqr
+###  AverageTimeBodyGyroMagiqr
 Average of the original data set's  tBodyGyroMag-iqr()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagentropy
+###  AverageTimeBodyGyroMagentropy
 Average of the original data set's  tBodyGyroMag-entropy()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagarCoeff1
+###  AverageTimeBodyGyroMagarCoeff1
 Average of the original data set's  tBodyGyroMag-arCoeff()1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagarCoeff2
+###  AverageTimeBodyGyroMagarCoeff2
 Average of the original data set's  tBodyGyroMag-arCoeff()2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagarCoeff3
+###  AverageTimeBodyGyroMagarCoeff3
 Average of the original data set's  tBodyGyroMag-arCoeff()3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroMagarCoeff4
+###  AverageTimeBodyGyroMagarCoeff4
 Average of the original data set's  tBodyGyroMag-arCoeff()4  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagMean
+###  AverageTimeBodyGyroJerkMagMean
 Average of the original data set's  tBodyGyroJerkMag-mean()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagStd
+###  AverageTimeBodyGyroJerkMagStd
 Average of the original data set's  tBodyGyroJerkMag-std()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagmad
+###  AverageTimeBodyGyroJerkMagmad
 Average of the original data set's  tBodyGyroJerkMag-mad()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagmax
+###  AverageTimeBodyGyroJerkMagmax
 Average of the original data set's  tBodyGyroJerkMag-max()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagmin
+###  AverageTimeBodyGyroJerkMagmin
 Average of the original data set's  tBodyGyroJerkMag-min()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagsma
+###  AverageTimeBodyGyroJerkMagsma
 Average of the original data set's  tBodyGyroJerkMag-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagenergy
+###  AverageTimeBodyGyroJerkMagenergy
 Average of the original data set's  tBodyGyroJerkMag-energy()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagiqr
+###  AverageTimeBodyGyroJerkMagiqr
 Average of the original data set's  tBodyGyroJerkMag-iqr()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagentropy
+###  AverageTimeBodyGyroJerkMagentropy
 Average of the original data set's  tBodyGyroJerkMag-entropy()  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagarCoeff1
+###  AverageTimeBodyGyroJerkMagarCoeff1
 Average of the original data set's  tBodyGyroJerkMag-arCoeff()1  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagarCoeff2
+###  AverageTimeBodyGyroJerkMagarCoeff2
 Average of the original data set's  tBodyGyroJerkMag-arCoeff()2  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagarCoeff3
+###  AverageTimeBodyGyroJerkMagarCoeff3
 Average of the original data set's  tBodyGyroJerkMag-arCoeff()3  values.
  * Numeric value between -1 and 1
 
-#  Average TimeBodyGyroJerkMagarCoeff4
+###  AverageTimeBodyGyroJerkMagarCoeff4
 Average of the original data set's  tBodyGyroJerkMag-arCoeff()4  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMeanX
+###  AverageFrequencyBodyAccelMeanX
 Average of the original data set's  fBodyAcc-mean()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMeanY
+###  AverageFrequencyBodyAccelMeanY
 Average of the original data set's  fBodyAcc-mean()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMeanZ
+###  AverageFrequencyBodyAccelMeanZ
 Average of the original data set's  fBodyAcc-mean()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelStdX
+###  AverageFrequencyBodyAccelStdX
 Average of the original data set's  fBodyAcc-std()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelStdY
+###  AverageFrequencyBodyAccelStdY
 Average of the original data set's  fBodyAcc-std()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelStdZ
+###  AverageFrequencyBodyAccelStdZ
 Average of the original data set's  fBodyAcc-std()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelmadX
+###  AverageFrequencyBodyAccelmadX
 Average of the original data set's  fBodyAcc-mad()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelmadY
+###  AverageFrequencyBodyAccelmadY
 Average of the original data set's  fBodyAcc-mad()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelmadZ
+###  AverageFrequencyBodyAccelmadZ
 Average of the original data set's  fBodyAcc-mad()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelmaxX
+###  AverageFrequencyBodyAccelmaxX
 Average of the original data set's  fBodyAcc-max()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelmaxY
+###  AverageFrequencyBodyAccelmaxY
 Average of the original data set's  fBodyAcc-max()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelmaxZ
+###  AverageFrequencyBodyAccelmaxZ
 Average of the original data set's  fBodyAcc-max()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelminX
+###  AverageFrequencyBodyAccelminX
 Average of the original data set's  fBodyAcc-min()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelminY
+###  AverageFrequencyBodyAccelminY
 Average of the original data set's  fBodyAcc-min()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelminZ
+###  AverageFrequencyBodyAccelminZ
 Average of the original data set's  fBodyAcc-min()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelsma
+###  AverageFrequencyBodyAccelsma
 Average of the original data set's  fBodyAcc-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelenergyX
+###  AverageFrequencyBodyAccelenergyX
 Average of the original data set's  fBodyAcc-energy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelenergyY
+###  AverageFrequencyBodyAccelenergyY
 Average of the original data set's  fBodyAcc-energy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelenergyZ
+###  AverageFrequencyBodyAccelenergyZ
 Average of the original data set's  fBodyAcc-energy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAcceliqrX
+###  AverageFrequencyBodyAcceliqrX
 Average of the original data set's  fBodyAcc-iqr()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAcceliqrY
+###  AverageFrequencyBodyAcceliqrY
 Average of the original data set's  fBodyAcc-iqr()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAcceliqrZ
+###  AverageFrequencyBodyAcceliqrZ
 Average of the original data set's  fBodyAcc-iqr()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelentropyX
+###  AverageFrequencyBodyAccelentropyX
 Average of the original data set's  fBodyAcc-entropy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelentropyY
+###  AverageFrequencyBodyAccelentropyY
 Average of the original data set's  fBodyAcc-entropy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelentropyZ
+###  AverageFrequencyBodyAccelentropyZ
 Average of the original data set's  fBodyAcc-entropy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelmaxIndsX
+###  AverageFrequencyBodyAccelmaxIndsX
 Average of the original data set's  fBodyAcc-maxInds-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelmaxIndsY
+###  AverageFrequencyBodyAccelmaxIndsY
 Average of the original data set's  fBodyAcc-maxInds-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelmaxIndsZ
+###  AverageFrequencyBodyAccelmaxIndsZ
 Average of the original data set's  fBodyAcc-maxInds-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMeanFreqX
+###  AverageFrequencyBodyAccelMeanFreqX
 Average of the original data set's  fBodyAcc-meanFreq()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMeanFreqY
+###  AverageFrequencyBodyAccelMeanFreqY
 Average of the original data set's  fBodyAcc-meanFreq()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMeanFreqZ
+###  AverageFrequencyBodyAccelMeanFreqZ
 Average of the original data set's  fBodyAcc-meanFreq()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelskewnessX
+###  AverageFrequencyBodyAccelskewnessX
 Average of the original data set's  fBodyAcc-skewness()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelkurtosisX
+###  AverageFrequencyBodyAccelkurtosisX
 Average of the original data set's  fBodyAcc-kurtosis()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelskewnessY
+###  AverageFrequencyBodyAccelskewnessY
 Average of the original data set's  fBodyAcc-skewness()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelkurtosisY
+###  AverageFrequencyBodyAccelkurtosisY
 Average of the original data set's  fBodyAcc-kurtosis()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelskewnessZ
+###  AverageFrequencyBodyAccelskewnessZ
 Average of the original data set's  fBodyAcc-skewness()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelkurtosisZ
+###  AverageFrequencyBodyAccelkurtosisZ
 Average of the original data set's  fBodyAcc-kurtosis()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy18
+###  AverageFrequencyBodyAccelbandsEnergy18
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-1,8", "fBodyAcc-bandsEnergy()-1,8", "fBodyAcc-bandsEnergy()-1,8")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy916
+###  AverageFrequencyBodyAccelbandsEnergy916
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-9,16", "fBodyAcc-bandsEnergy()-9,16", "fBodyAcc-bandsEnergy()-9,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy1724
+###  AverageFrequencyBodyAccelbandsEnergy1724
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-17,24", "fBodyAcc-bandsEnergy()-17,24", "fBodyAcc-bandsEnergy()-17,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy2532
+###  AverageFrequencyBodyAccelbandsEnergy2532
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-25,32", "fBodyAcc-bandsEnergy()-25,32", "fBodyAcc-bandsEnergy()-25,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy3340
+###  AverageFrequencyBodyAccelbandsEnergy3340
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-33,40", "fBodyAcc-bandsEnergy()-33,40", "fBodyAcc-bandsEnergy()-33,40")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy4148
+###  AverageFrequencyBodyAccelbandsEnergy4148
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-41,48", "fBodyAcc-bandsEnergy()-41,48", "fBodyAcc-bandsEnergy()-41,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy4956
+###  AverageFrequencyBodyAccelbandsEnergy4956
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-49,56", "fBodyAcc-bandsEnergy()-49,56", "fBodyAcc-bandsEnergy()-49,56")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy5764
+###  AverageFrequencyBodyAccelbandsEnergy5764
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-57,64", "fBodyAcc-bandsEnergy()-57,64", "fBodyAcc-bandsEnergy()-57,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy116
+###  AverageFrequencyBodyAccelbandsEnergy116
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-1,16", "fBodyAcc-bandsEnergy()-1,16", "fBodyAcc-bandsEnergy()-1,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy1732
+###  AverageFrequencyBodyAccelbandsEnergy1732
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-17,32", "fBodyAcc-bandsEnergy()-17,32", "fBodyAcc-bandsEnergy()-17,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy3348
+###  AverageFrequencyBodyAccelbandsEnergy3348
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-33,48", "fBodyAcc-bandsEnergy()-33,48", "fBodyAcc-bandsEnergy()-33,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy4964
+###  AverageFrequencyBodyAccelbandsEnergy4964
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-49,64", "fBodyAcc-bandsEnergy()-49,64", "fBodyAcc-bandsEnergy()-49,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy124
+###  AverageFrequencyBodyAccelbandsEnergy124
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-1,24", "fBodyAcc-bandsEnergy()-1,24", "fBodyAcc-bandsEnergy()-1,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy2548
+###  AverageFrequencyBodyAccelbandsEnergy2548
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-25,48", "fBodyAcc-bandsEnergy()-25,48", "fBodyAcc-bandsEnergy()-25,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy18
+###  AverageFrequencyBodyAccelbandsEnergy18
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-1,8", "fBodyAcc-bandsEnergy()-1,8", "fBodyAcc-bandsEnergy()-1,8")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy916
+###  AverageFrequencyBodyAccelbandsEnergy916
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-9,16", "fBodyAcc-bandsEnergy()-9,16", "fBodyAcc-bandsEnergy()-9,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy1724
+###  AverageFrequencyBodyAccelbandsEnergy1724
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-17,24", "fBodyAcc-bandsEnergy()-17,24", "fBodyAcc-bandsEnergy()-17,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy2532
+###  AverageFrequencyBodyAccelbandsEnergy2532
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-25,32", "fBodyAcc-bandsEnergy()-25,32", "fBodyAcc-bandsEnergy()-25,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy3340
+###  AverageFrequencyBodyAccelbandsEnergy3340
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-33,40", "fBodyAcc-bandsEnergy()-33,40", "fBodyAcc-bandsEnergy()-33,40")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy4148
+###  AverageFrequencyBodyAccelbandsEnergy4148
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-41,48", "fBodyAcc-bandsEnergy()-41,48", "fBodyAcc-bandsEnergy()-41,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy4956
+###  AverageFrequencyBodyAccelbandsEnergy4956
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-49,56", "fBodyAcc-bandsEnergy()-49,56", "fBodyAcc-bandsEnergy()-49,56")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy5764
+###  AverageFrequencyBodyAccelbandsEnergy5764
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-57,64", "fBodyAcc-bandsEnergy()-57,64", "fBodyAcc-bandsEnergy()-57,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy116
+###  AverageFrequencyBodyAccelbandsEnergy116
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-1,16", "fBodyAcc-bandsEnergy()-1,16", "fBodyAcc-bandsEnergy()-1,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy1732
+###  AverageFrequencyBodyAccelbandsEnergy1732
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-17,32", "fBodyAcc-bandsEnergy()-17,32", "fBodyAcc-bandsEnergy()-17,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy3348
+###  AverageFrequencyBodyAccelbandsEnergy3348
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-33,48", "fBodyAcc-bandsEnergy()-33,48", "fBodyAcc-bandsEnergy()-33,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy4964
+###  AverageFrequencyBodyAccelbandsEnergy4964
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-49,64", "fBodyAcc-bandsEnergy()-49,64", "fBodyAcc-bandsEnergy()-49,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy124
+###  AverageFrequencyBodyAccelbandsEnergy124
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-1,24", "fBodyAcc-bandsEnergy()-1,24", "fBodyAcc-bandsEnergy()-1,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy2548
+###  AverageFrequencyBodyAccelbandsEnergy2548
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-25,48", "fBodyAcc-bandsEnergy()-25,48", "fBodyAcc-bandsEnergy()-25,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy18
+###  AverageFrequencyBodyAccelbandsEnergy18
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-1,8", "fBodyAcc-bandsEnergy()-1,8", "fBodyAcc-bandsEnergy()-1,8")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy916
+###  AverageFrequencyBodyAccelbandsEnergy916
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-9,16", "fBodyAcc-bandsEnergy()-9,16", "fBodyAcc-bandsEnergy()-9,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy1724
+###  AverageFrequencyBodyAccelbandsEnergy1724
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-17,24", "fBodyAcc-bandsEnergy()-17,24", "fBodyAcc-bandsEnergy()-17,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy2532
+###  AverageFrequencyBodyAccelbandsEnergy2532
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-25,32", "fBodyAcc-bandsEnergy()-25,32", "fBodyAcc-bandsEnergy()-25,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy3340
+###  AverageFrequencyBodyAccelbandsEnergy3340
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-33,40", "fBodyAcc-bandsEnergy()-33,40", "fBodyAcc-bandsEnergy()-33,40")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy4148
+###  AverageFrequencyBodyAccelbandsEnergy4148
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-41,48", "fBodyAcc-bandsEnergy()-41,48", "fBodyAcc-bandsEnergy()-41,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy4956
+###  AverageFrequencyBodyAccelbandsEnergy4956
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-49,56", "fBodyAcc-bandsEnergy()-49,56", "fBodyAcc-bandsEnergy()-49,56")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy5764
+###  AverageFrequencyBodyAccelbandsEnergy5764
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-57,64", "fBodyAcc-bandsEnergy()-57,64", "fBodyAcc-bandsEnergy()-57,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy116
+###  AverageFrequencyBodyAccelbandsEnergy116
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-1,16", "fBodyAcc-bandsEnergy()-1,16", "fBodyAcc-bandsEnergy()-1,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy1732
+###  AverageFrequencyBodyAccelbandsEnergy1732
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-17,32", "fBodyAcc-bandsEnergy()-17,32", "fBodyAcc-bandsEnergy()-17,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy3348
+###  AverageFrequencyBodyAccelbandsEnergy3348
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-33,48", "fBodyAcc-bandsEnergy()-33,48", "fBodyAcc-bandsEnergy()-33,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy4964
+###  AverageFrequencyBodyAccelbandsEnergy4964
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-49,64", "fBodyAcc-bandsEnergy()-49,64", "fBodyAcc-bandsEnergy()-49,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy124
+###  AverageFrequencyBodyAccelbandsEnergy124
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-1,24", "fBodyAcc-bandsEnergy()-1,24", "fBodyAcc-bandsEnergy()-1,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelbandsEnergy2548
+###  AverageFrequencyBodyAccelbandsEnergy2548
 Average of the original data set's  c("fBodyAcc-bandsEnergy()-25,48", "fBodyAcc-bandsEnergy()-25,48", "fBodyAcc-bandsEnergy()-25,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkMeanX
+###  AverageFrequencyBodyAccelJerkMeanX
 Average of the original data set's  fBodyAccJerk-mean()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkMeanY
+###  AverageFrequencyBodyAccelJerkMeanY
 Average of the original data set's  fBodyAccJerk-mean()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkMeanZ
+###  AverageFrequencyBodyAccelJerkMeanZ
 Average of the original data set's  fBodyAccJerk-mean()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkStdX
+###  AverageFrequencyBodyAccelJerkStdX
 Average of the original data set's  fBodyAccJerk-std()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkStdY
+###  AverageFrequencyBodyAccelJerkStdY
 Average of the original data set's  fBodyAccJerk-std()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkStdZ
+###  AverageFrequencyBodyAccelJerkStdZ
 Average of the original data set's  fBodyAccJerk-std()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkmadX
+###  AverageFrequencyBodyAccelJerkmadX
 Average of the original data set's  fBodyAccJerk-mad()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkmadY
+###  AverageFrequencyBodyAccelJerkmadY
 Average of the original data set's  fBodyAccJerk-mad()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkmadZ
+###  AverageFrequencyBodyAccelJerkmadZ
 Average of the original data set's  fBodyAccJerk-mad()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkmaxX
+###  AverageFrequencyBodyAccelJerkmaxX
 Average of the original data set's  fBodyAccJerk-max()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkmaxY
+###  AverageFrequencyBodyAccelJerkmaxY
 Average of the original data set's  fBodyAccJerk-max()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkmaxZ
+###  AverageFrequencyBodyAccelJerkmaxZ
 Average of the original data set's  fBodyAccJerk-max()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkminX
+###  AverageFrequencyBodyAccelJerkminX
 Average of the original data set's  fBodyAccJerk-min()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkminY
+###  AverageFrequencyBodyAccelJerkminY
 Average of the original data set's  fBodyAccJerk-min()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkminZ
+###  AverageFrequencyBodyAccelJerkminZ
 Average of the original data set's  fBodyAccJerk-min()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerksma
+###  AverageFrequencyBodyAccelJerksma
 Average of the original data set's  fBodyAccJerk-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkenergyX
+###  AverageFrequencyBodyAccelJerkenergyX
 Average of the original data set's  fBodyAccJerk-energy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkenergyY
+###  AverageFrequencyBodyAccelJerkenergyY
 Average of the original data set's  fBodyAccJerk-energy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkenergyZ
+###  AverageFrequencyBodyAccelJerkenergyZ
 Average of the original data set's  fBodyAccJerk-energy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkiqrX
+###  AverageFrequencyBodyAccelJerkiqrX
 Average of the original data set's  fBodyAccJerk-iqr()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkiqrY
+###  AverageFrequencyBodyAccelJerkiqrY
 Average of the original data set's  fBodyAccJerk-iqr()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkiqrZ
+###  AverageFrequencyBodyAccelJerkiqrZ
 Average of the original data set's  fBodyAccJerk-iqr()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkentropyX
+###  AverageFrequencyBodyAccelJerkentropyX
 Average of the original data set's  fBodyAccJerk-entropy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkentropyY
+###  AverageFrequencyBodyAccelJerkentropyY
 Average of the original data set's  fBodyAccJerk-entropy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkentropyZ
+###  AverageFrequencyBodyAccelJerkentropyZ
 Average of the original data set's  fBodyAccJerk-entropy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkmaxIndsX
+###  AverageFrequencyBodyAccelJerkmaxIndsX
 Average of the original data set's  fBodyAccJerk-maxInds-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkmaxIndsY
+###  AverageFrequencyBodyAccelJerkmaxIndsY
 Average of the original data set's  fBodyAccJerk-maxInds-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkmaxIndsZ
+###  AverageFrequencyBodyAccelJerkmaxIndsZ
 Average of the original data set's  fBodyAccJerk-maxInds-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkMeanFreqX
+###  AverageFrequencyBodyAccelJerkMeanFreqX
 Average of the original data set's  fBodyAccJerk-meanFreq()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkMeanFreqY
+###  AverageFrequencyBodyAccelJerkMeanFreqY
 Average of the original data set's  fBodyAccJerk-meanFreq()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkMeanFreqZ
+###  AverageFrequencyBodyAccelJerkMeanFreqZ
 Average of the original data set's  fBodyAccJerk-meanFreq()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkskewnessX
+###  AverageFrequencyBodyAccelJerkskewnessX
 Average of the original data set's  fBodyAccJerk-skewness()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkkurtosisX
+###  AverageFrequencyBodyAccelJerkkurtosisX
 Average of the original data set's  fBodyAccJerk-kurtosis()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkskewnessY
+###  AverageFrequencyBodyAccelJerkskewnessY
 Average of the original data set's  fBodyAccJerk-skewness()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkkurtosisY
+###  AverageFrequencyBodyAccelJerkkurtosisY
 Average of the original data set's  fBodyAccJerk-kurtosis()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkskewnessZ
+###  AverageFrequencyBodyAccelJerkskewnessZ
 Average of the original data set's  fBodyAccJerk-skewness()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkkurtosisZ
+###  AverageFrequencyBodyAccelJerkkurtosisZ
 Average of the original data set's  fBodyAccJerk-kurtosis()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy18
+###  AverageFrequencyBodyAccelJerkbandsEnergy18
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-1,8", "fBodyAccJerk-bandsEnergy()-1,8", "fBodyAccJerk-bandsEnergy()-1,8")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy916
+###  AverageFrequencyBodyAccelJerkbandsEnergy916
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-9,16", "fBodyAccJerk-bandsEnergy()-9,16", "fBodyAccJerk-bandsEnergy()-9,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy1724
+###  AverageFrequencyBodyAccelJerkbandsEnergy1724
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-17,24", "fBodyAccJerk-bandsEnergy()-17,24", "fBodyAccJerk-bandsEnergy()-17,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy2532
+###  AverageFrequencyBodyAccelJerkbandsEnergy2532
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-25,32", "fBodyAccJerk-bandsEnergy()-25,32", "fBodyAccJerk-bandsEnergy()-25,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy3340
+###  AverageFrequencyBodyAccelJerkbandsEnergy3340
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-33,40", "fBodyAccJerk-bandsEnergy()-33,40", "fBodyAccJerk-bandsEnergy()-33,40")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy4148
+###  AverageFrequencyBodyAccelJerkbandsEnergy4148
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-41,48", "fBodyAccJerk-bandsEnergy()-41,48", "fBodyAccJerk-bandsEnergy()-41,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy4956
+###  AverageFrequencyBodyAccelJerkbandsEnergy4956
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-49,56", "fBodyAccJerk-bandsEnergy()-49,56", "fBodyAccJerk-bandsEnergy()-49,56")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy5764
+###  AverageFrequencyBodyAccelJerkbandsEnergy5764
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-57,64", "fBodyAccJerk-bandsEnergy()-57,64", "fBodyAccJerk-bandsEnergy()-57,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy116
+###  AverageFrequencyBodyAccelJerkbandsEnergy116
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-1,16", "fBodyAccJerk-bandsEnergy()-1,16", "fBodyAccJerk-bandsEnergy()-1,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy1732
+###  AverageFrequencyBodyAccelJerkbandsEnergy1732
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-17,32", "fBodyAccJerk-bandsEnergy()-17,32", "fBodyAccJerk-bandsEnergy()-17,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy3348
+###  AverageFrequencyBodyAccelJerkbandsEnergy3348
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-33,48", "fBodyAccJerk-bandsEnergy()-33,48", "fBodyAccJerk-bandsEnergy()-33,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy4964
+###  AverageFrequencyBodyAccelJerkbandsEnergy4964
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-49,64", "fBodyAccJerk-bandsEnergy()-49,64", "fBodyAccJerk-bandsEnergy()-49,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy124
+###  AverageFrequencyBodyAccelJerkbandsEnergy124
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-1,24", "fBodyAccJerk-bandsEnergy()-1,24", "fBodyAccJerk-bandsEnergy()-1,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy2548
+###  AverageFrequencyBodyAccelJerkbandsEnergy2548
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-25,48", "fBodyAccJerk-bandsEnergy()-25,48", "fBodyAccJerk-bandsEnergy()-25,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy18
+###  AverageFrequencyBodyAccelJerkbandsEnergy18
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-1,8", "fBodyAccJerk-bandsEnergy()-1,8", "fBodyAccJerk-bandsEnergy()-1,8")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy916
+###  AverageFrequencyBodyAccelJerkbandsEnergy916
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-9,16", "fBodyAccJerk-bandsEnergy()-9,16", "fBodyAccJerk-bandsEnergy()-9,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy1724
+###  AverageFrequencyBodyAccelJerkbandsEnergy1724
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-17,24", "fBodyAccJerk-bandsEnergy()-17,24", "fBodyAccJerk-bandsEnergy()-17,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy2532
+###  AverageFrequencyBodyAccelJerkbandsEnergy2532
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-25,32", "fBodyAccJerk-bandsEnergy()-25,32", "fBodyAccJerk-bandsEnergy()-25,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy3340
+###  AverageFrequencyBodyAccelJerkbandsEnergy3340
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-33,40", "fBodyAccJerk-bandsEnergy()-33,40", "fBodyAccJerk-bandsEnergy()-33,40")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy4148
+###  AverageFrequencyBodyAccelJerkbandsEnergy4148
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-41,48", "fBodyAccJerk-bandsEnergy()-41,48", "fBodyAccJerk-bandsEnergy()-41,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy4956
+###  AverageFrequencyBodyAccelJerkbandsEnergy4956
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-49,56", "fBodyAccJerk-bandsEnergy()-49,56", "fBodyAccJerk-bandsEnergy()-49,56")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy5764
+###  AverageFrequencyBodyAccelJerkbandsEnergy5764
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-57,64", "fBodyAccJerk-bandsEnergy()-57,64", "fBodyAccJerk-bandsEnergy()-57,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy116
+###  AverageFrequencyBodyAccelJerkbandsEnergy116
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-1,16", "fBodyAccJerk-bandsEnergy()-1,16", "fBodyAccJerk-bandsEnergy()-1,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy1732
+###  AverageFrequencyBodyAccelJerkbandsEnergy1732
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-17,32", "fBodyAccJerk-bandsEnergy()-17,32", "fBodyAccJerk-bandsEnergy()-17,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy3348
+###  AverageFrequencyBodyAccelJerkbandsEnergy3348
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-33,48", "fBodyAccJerk-bandsEnergy()-33,48", "fBodyAccJerk-bandsEnergy()-33,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy4964
+###  AverageFrequencyBodyAccelJerkbandsEnergy4964
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-49,64", "fBodyAccJerk-bandsEnergy()-49,64", "fBodyAccJerk-bandsEnergy()-49,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy124
+###  AverageFrequencyBodyAccelJerkbandsEnergy124
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-1,24", "fBodyAccJerk-bandsEnergy()-1,24", "fBodyAccJerk-bandsEnergy()-1,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy2548
+###  AverageFrequencyBodyAccelJerkbandsEnergy2548
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-25,48", "fBodyAccJerk-bandsEnergy()-25,48", "fBodyAccJerk-bandsEnergy()-25,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy18
+###  AverageFrequencyBodyAccelJerkbandsEnergy18
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-1,8", "fBodyAccJerk-bandsEnergy()-1,8", "fBodyAccJerk-bandsEnergy()-1,8")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy916
+###  AverageFrequencyBodyAccelJerkbandsEnergy916
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-9,16", "fBodyAccJerk-bandsEnergy()-9,16", "fBodyAccJerk-bandsEnergy()-9,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy1724
+###  AverageFrequencyBodyAccelJerkbandsEnergy1724
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-17,24", "fBodyAccJerk-bandsEnergy()-17,24", "fBodyAccJerk-bandsEnergy()-17,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy2532
+###  AverageFrequencyBodyAccelJerkbandsEnergy2532
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-25,32", "fBodyAccJerk-bandsEnergy()-25,32", "fBodyAccJerk-bandsEnergy()-25,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy3340
+###  AverageFrequencyBodyAccelJerkbandsEnergy3340
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-33,40", "fBodyAccJerk-bandsEnergy()-33,40", "fBodyAccJerk-bandsEnergy()-33,40")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy4148
+###  AverageFrequencyBodyAccelJerkbandsEnergy4148
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-41,48", "fBodyAccJerk-bandsEnergy()-41,48", "fBodyAccJerk-bandsEnergy()-41,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy4956
+###  AverageFrequencyBodyAccelJerkbandsEnergy4956
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-49,56", "fBodyAccJerk-bandsEnergy()-49,56", "fBodyAccJerk-bandsEnergy()-49,56")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy5764
+###  AverageFrequencyBodyAccelJerkbandsEnergy5764
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-57,64", "fBodyAccJerk-bandsEnergy()-57,64", "fBodyAccJerk-bandsEnergy()-57,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy116
+###  AverageFrequencyBodyAccelJerkbandsEnergy116
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-1,16", "fBodyAccJerk-bandsEnergy()-1,16", "fBodyAccJerk-bandsEnergy()-1,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy1732
+###  AverageFrequencyBodyAccelJerkbandsEnergy1732
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-17,32", "fBodyAccJerk-bandsEnergy()-17,32", "fBodyAccJerk-bandsEnergy()-17,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy3348
+###  AverageFrequencyBodyAccelJerkbandsEnergy3348
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-33,48", "fBodyAccJerk-bandsEnergy()-33,48", "fBodyAccJerk-bandsEnergy()-33,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy4964
+###  AverageFrequencyBodyAccelJerkbandsEnergy4964
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-49,64", "fBodyAccJerk-bandsEnergy()-49,64", "fBodyAccJerk-bandsEnergy()-49,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy124
+###  AverageFrequencyBodyAccelJerkbandsEnergy124
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-1,24", "fBodyAccJerk-bandsEnergy()-1,24", "fBodyAccJerk-bandsEnergy()-1,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelJerkbandsEnergy2548
+###  AverageFrequencyBodyAccelJerkbandsEnergy2548
 Average of the original data set's  c("fBodyAccJerk-bandsEnergy()-25,48", "fBodyAccJerk-bandsEnergy()-25,48", "fBodyAccJerk-bandsEnergy()-25,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroMeanX
+###  AverageFrequencyBodyGyroMeanX
 Average of the original data set's  fBodyGyro-mean()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroMeanY
+###  AverageFrequencyBodyGyroMeanY
 Average of the original data set's  fBodyGyro-mean()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroMeanZ
+###  AverageFrequencyBodyGyroMeanZ
 Average of the original data set's  fBodyGyro-mean()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroStdX
+###  AverageFrequencyBodyGyroStdX
 Average of the original data set's  fBodyGyro-std()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroStdY
+###  AverageFrequencyBodyGyroStdY
 Average of the original data set's  fBodyGyro-std()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroStdZ
+###  AverageFrequencyBodyGyroStdZ
 Average of the original data set's  fBodyGyro-std()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyromadX
+###  AverageFrequencyBodyGyromadX
 Average of the original data set's  fBodyGyro-mad()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyromadY
+###  AverageFrequencyBodyGyromadY
 Average of the original data set's  fBodyGyro-mad()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyromadZ
+###  AverageFrequencyBodyGyromadZ
 Average of the original data set's  fBodyGyro-mad()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyromaxX
+###  AverageFrequencyBodyGyromaxX
 Average of the original data set's  fBodyGyro-max()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyromaxY
+###  AverageFrequencyBodyGyromaxY
 Average of the original data set's  fBodyGyro-max()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyromaxZ
+###  AverageFrequencyBodyGyromaxZ
 Average of the original data set's  fBodyGyro-max()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrominX
+###  AverageFrequencyBodyGyrominX
 Average of the original data set's  fBodyGyro-min()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrominY
+###  AverageFrequencyBodyGyrominY
 Average of the original data set's  fBodyGyro-min()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrominZ
+###  AverageFrequencyBodyGyrominZ
 Average of the original data set's  fBodyGyro-min()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrosma
+###  AverageFrequencyBodyGyrosma
 Average of the original data set's  fBodyGyro-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroenergyX
+###  AverageFrequencyBodyGyroenergyX
 Average of the original data set's  fBodyGyro-energy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroenergyY
+###  AverageFrequencyBodyGyroenergyY
 Average of the original data set's  fBodyGyro-energy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroenergyZ
+###  AverageFrequencyBodyGyroenergyZ
 Average of the original data set's  fBodyGyro-energy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroiqrX
+###  AverageFrequencyBodyGyroiqrX
 Average of the original data set's  fBodyGyro-iqr()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroiqrY
+###  AverageFrequencyBodyGyroiqrY
 Average of the original data set's  fBodyGyro-iqr()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroiqrZ
+###  AverageFrequencyBodyGyroiqrZ
 Average of the original data set's  fBodyGyro-iqr()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroentropyX
+###  AverageFrequencyBodyGyroentropyX
 Average of the original data set's  fBodyGyro-entropy()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroentropyY
+###  AverageFrequencyBodyGyroentropyY
 Average of the original data set's  fBodyGyro-entropy()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroentropyZ
+###  AverageFrequencyBodyGyroentropyZ
 Average of the original data set's  fBodyGyro-entropy()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyromaxIndsX
+###  AverageFrequencyBodyGyromaxIndsX
 Average of the original data set's  fBodyGyro-maxInds-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyromaxIndsY
+###  AverageFrequencyBodyGyromaxIndsY
 Average of the original data set's  fBodyGyro-maxInds-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyromaxIndsZ
+###  AverageFrequencyBodyGyromaxIndsZ
 Average of the original data set's  fBodyGyro-maxInds-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroMeanFreqX
+###  AverageFrequencyBodyGyroMeanFreqX
 Average of the original data set's  fBodyGyro-meanFreq()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroMeanFreqY
+###  AverageFrequencyBodyGyroMeanFreqY
 Average of the original data set's  fBodyGyro-meanFreq()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroMeanFreqZ
+###  AverageFrequencyBodyGyroMeanFreqZ
 Average of the original data set's  fBodyGyro-meanFreq()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroskewnessX
+###  AverageFrequencyBodyGyroskewnessX
 Average of the original data set's  fBodyGyro-skewness()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrokurtosisX
+###  AverageFrequencyBodyGyrokurtosisX
 Average of the original data set's  fBodyGyro-kurtosis()-X  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroskewnessY
+###  AverageFrequencyBodyGyroskewnessY
 Average of the original data set's  fBodyGyro-skewness()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrokurtosisY
+###  AverageFrequencyBodyGyrokurtosisY
 Average of the original data set's  fBodyGyro-kurtosis()-Y  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyroskewnessZ
+###  AverageFrequencyBodyGyroskewnessZ
 Average of the original data set's  fBodyGyro-skewness()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrokurtosisZ
+###  AverageFrequencyBodyGyrokurtosisZ
 Average of the original data set's  fBodyGyro-kurtosis()-Z  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy18
+###  AverageFrequencyBodyGyrobandsEnergy18
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-1,8", "fBodyGyro-bandsEnergy()-1,8", "fBodyGyro-bandsEnergy()-1,8")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy916
+###  AverageFrequencyBodyGyrobandsEnergy916
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-9,16", "fBodyGyro-bandsEnergy()-9,16", "fBodyGyro-bandsEnergy()-9,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy1724
+###  AverageFrequencyBodyGyrobandsEnergy1724
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-17,24", "fBodyGyro-bandsEnergy()-17,24", "fBodyGyro-bandsEnergy()-17,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy2532
+###  AverageFrequencyBodyGyrobandsEnergy2532
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-25,32", "fBodyGyro-bandsEnergy()-25,32", "fBodyGyro-bandsEnergy()-25,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy3340
+###  AverageFrequencyBodyGyrobandsEnergy3340
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-33,40", "fBodyGyro-bandsEnergy()-33,40", "fBodyGyro-bandsEnergy()-33,40")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy4148
+###  AverageFrequencyBodyGyrobandsEnergy4148
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-41,48", "fBodyGyro-bandsEnergy()-41,48", "fBodyGyro-bandsEnergy()-41,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy4956
+###  AverageFrequencyBodyGyrobandsEnergy4956
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-49,56", "fBodyGyro-bandsEnergy()-49,56", "fBodyGyro-bandsEnergy()-49,56")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy5764
+###  AverageFrequencyBodyGyrobandsEnergy5764
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-57,64", "fBodyGyro-bandsEnergy()-57,64", "fBodyGyro-bandsEnergy()-57,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy116
+###  AverageFrequencyBodyGyrobandsEnergy116
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-1,16", "fBodyGyro-bandsEnergy()-1,16", "fBodyGyro-bandsEnergy()-1,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy1732
+###  AverageFrequencyBodyGyrobandsEnergy1732
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-17,32", "fBodyGyro-bandsEnergy()-17,32", "fBodyGyro-bandsEnergy()-17,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy3348
+###  AverageFrequencyBodyGyrobandsEnergy3348
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-33,48", "fBodyGyro-bandsEnergy()-33,48", "fBodyGyro-bandsEnergy()-33,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy4964
+###  AverageFrequencyBodyGyrobandsEnergy4964
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-49,64", "fBodyGyro-bandsEnergy()-49,64", "fBodyGyro-bandsEnergy()-49,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy124
+###  AverageFrequencyBodyGyrobandsEnergy124
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-1,24", "fBodyGyro-bandsEnergy()-1,24", "fBodyGyro-bandsEnergy()-1,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy2548
+###  AverageFrequencyBodyGyrobandsEnergy2548
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-25,48", "fBodyGyro-bandsEnergy()-25,48", "fBodyGyro-bandsEnergy()-25,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy18
+###  AverageFrequencyBodyGyrobandsEnergy18
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-1,8", "fBodyGyro-bandsEnergy()-1,8", "fBodyGyro-bandsEnergy()-1,8")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy916
+###  AverageFrequencyBodyGyrobandsEnergy916
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-9,16", "fBodyGyro-bandsEnergy()-9,16", "fBodyGyro-bandsEnergy()-9,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy1724
+###  AverageFrequencyBodyGyrobandsEnergy1724
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-17,24", "fBodyGyro-bandsEnergy()-17,24", "fBodyGyro-bandsEnergy()-17,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy2532
+###  AverageFrequencyBodyGyrobandsEnergy2532
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-25,32", "fBodyGyro-bandsEnergy()-25,32", "fBodyGyro-bandsEnergy()-25,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy3340
+###  AverageFrequencyBodyGyrobandsEnergy3340
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-33,40", "fBodyGyro-bandsEnergy()-33,40", "fBodyGyro-bandsEnergy()-33,40")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy4148
+###  AverageFrequencyBodyGyrobandsEnergy4148
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-41,48", "fBodyGyro-bandsEnergy()-41,48", "fBodyGyro-bandsEnergy()-41,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy4956
+###  AverageFrequencyBodyGyrobandsEnergy4956
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-49,56", "fBodyGyro-bandsEnergy()-49,56", "fBodyGyro-bandsEnergy()-49,56")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy5764
+###  AverageFrequencyBodyGyrobandsEnergy5764
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-57,64", "fBodyGyro-bandsEnergy()-57,64", "fBodyGyro-bandsEnergy()-57,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy116
+###  AverageFrequencyBodyGyrobandsEnergy116
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-1,16", "fBodyGyro-bandsEnergy()-1,16", "fBodyGyro-bandsEnergy()-1,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy1732
+###  AverageFrequencyBodyGyrobandsEnergy1732
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-17,32", "fBodyGyro-bandsEnergy()-17,32", "fBodyGyro-bandsEnergy()-17,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy3348
+###  AverageFrequencyBodyGyrobandsEnergy3348
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-33,48", "fBodyGyro-bandsEnergy()-33,48", "fBodyGyro-bandsEnergy()-33,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy4964
+###  AverageFrequencyBodyGyrobandsEnergy4964
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-49,64", "fBodyGyro-bandsEnergy()-49,64", "fBodyGyro-bandsEnergy()-49,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy124
+###  AverageFrequencyBodyGyrobandsEnergy124
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-1,24", "fBodyGyro-bandsEnergy()-1,24", "fBodyGyro-bandsEnergy()-1,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy2548
+###  AverageFrequencyBodyGyrobandsEnergy2548
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-25,48", "fBodyGyro-bandsEnergy()-25,48", "fBodyGyro-bandsEnergy()-25,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy18
+###  AverageFrequencyBodyGyrobandsEnergy18
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-1,8", "fBodyGyro-bandsEnergy()-1,8", "fBodyGyro-bandsEnergy()-1,8")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy916
+###  AverageFrequencyBodyGyrobandsEnergy916
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-9,16", "fBodyGyro-bandsEnergy()-9,16", "fBodyGyro-bandsEnergy()-9,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy1724
+###  AverageFrequencyBodyGyrobandsEnergy1724
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-17,24", "fBodyGyro-bandsEnergy()-17,24", "fBodyGyro-bandsEnergy()-17,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy2532
+###  AverageFrequencyBodyGyrobandsEnergy2532
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-25,32", "fBodyGyro-bandsEnergy()-25,32", "fBodyGyro-bandsEnergy()-25,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy3340
+###  AverageFrequencyBodyGyrobandsEnergy3340
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-33,40", "fBodyGyro-bandsEnergy()-33,40", "fBodyGyro-bandsEnergy()-33,40")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy4148
+###  AverageFrequencyBodyGyrobandsEnergy4148
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-41,48", "fBodyGyro-bandsEnergy()-41,48", "fBodyGyro-bandsEnergy()-41,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy4956
+###  AverageFrequencyBodyGyrobandsEnergy4956
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-49,56", "fBodyGyro-bandsEnergy()-49,56", "fBodyGyro-bandsEnergy()-49,56")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy5764
+###  AverageFrequencyBodyGyrobandsEnergy5764
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-57,64", "fBodyGyro-bandsEnergy()-57,64", "fBodyGyro-bandsEnergy()-57,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy116
+###  AverageFrequencyBodyGyrobandsEnergy116
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-1,16", "fBodyGyro-bandsEnergy()-1,16", "fBodyGyro-bandsEnergy()-1,16")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy1732
+###  AverageFrequencyBodyGyrobandsEnergy1732
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-17,32", "fBodyGyro-bandsEnergy()-17,32", "fBodyGyro-bandsEnergy()-17,32")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy3348
+###  AverageFrequencyBodyGyrobandsEnergy3348
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-33,48", "fBodyGyro-bandsEnergy()-33,48", "fBodyGyro-bandsEnergy()-33,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy4964
+###  AverageFrequencyBodyGyrobandsEnergy4964
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-49,64", "fBodyGyro-bandsEnergy()-49,64", "fBodyGyro-bandsEnergy()-49,64")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy124
+###  AverageFrequencyBodyGyrobandsEnergy124
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-1,24", "fBodyGyro-bandsEnergy()-1,24", "fBodyGyro-bandsEnergy()-1,24")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyGyrobandsEnergy2548
+###  AverageFrequencyBodyGyrobandsEnergy2548
 Average of the original data set's  c("fBodyGyro-bandsEnergy()-25,48", "fBodyGyro-bandsEnergy()-25,48", "fBodyGyro-bandsEnergy()-25,48")  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagMean
+###  AverageFrequencyBodyAccelMagMean
 Average of the original data set's  fBodyAccMag-mean()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagStd
+###  AverageFrequencyBodyAccelMagStd
 Average of the original data set's  fBodyAccMag-std()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagmad
+###  AverageFrequencyBodyAccelMagmad
 Average of the original data set's  fBodyAccMag-mad()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagmax
+###  AverageFrequencyBodyAccelMagmax
 Average of the original data set's  fBodyAccMag-max()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagmin
+###  AverageFrequencyBodyAccelMagmin
 Average of the original data set's  fBodyAccMag-min()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagsma
+###  AverageFrequencyBodyAccelMagsma
 Average of the original data set's  fBodyAccMag-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagenergy
+###  AverageFrequencyBodyAccelMagenergy
 Average of the original data set's  fBodyAccMag-energy()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagiqr
+###  AverageFrequencyBodyAccelMagiqr
 Average of the original data set's  fBodyAccMag-iqr()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagentropy
+###  AverageFrequencyBodyAccelMagentropy
 Average of the original data set's  fBodyAccMag-entropy()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagmaxInds
+###  AverageFrequencyBodyAccelMagmaxInds
 Average of the original data set's  fBodyAccMag-maxInds  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagMeanFreq
+###  AverageFrequencyBodyAccelMagMeanFreq
 Average of the original data set's  fBodyAccMag-meanFreq()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagskewness
+###  AverageFrequencyBodyAccelMagskewness
 Average of the original data set's  fBodyAccMag-skewness()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyAccelMagkurtosis
+###  AverageFrequencyBodyAccelMagkurtosis
 Average of the original data set's  fBodyAccMag-kurtosis()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagMean
+###  AverageFrequencyBodyBodyAccelJerkMagMean
 Average of the original data set's  fBodyBodyAccJerkMag-mean()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagStd
+###  AverageFrequencyBodyBodyAccelJerkMagStd
 Average of the original data set's  fBodyBodyAccJerkMag-std()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagmad
+###  AverageFrequencyBodyBodyAccelJerkMagmad
 Average of the original data set's  fBodyBodyAccJerkMag-mad()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagmax
+###  AverageFrequencyBodyBodyAccelJerkMagmax
 Average of the original data set's  fBodyBodyAccJerkMag-max()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagmin
+###  AverageFrequencyBodyBodyAccelJerkMagmin
 Average of the original data set's  fBodyBodyAccJerkMag-min()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagsma
+###  AverageFrequencyBodyBodyAccelJerkMagsma
 Average of the original data set's  fBodyBodyAccJerkMag-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagenergy
+###  AverageFrequencyBodyBodyAccelJerkMagenergy
 Average of the original data set's  fBodyBodyAccJerkMag-energy()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagiqr
+###  AverageFrequencyBodyBodyAccelJerkMagiqr
 Average of the original data set's  fBodyBodyAccJerkMag-iqr()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagentropy
+###  AverageFrequencyBodyBodyAccelJerkMagentropy
 Average of the original data set's  fBodyBodyAccJerkMag-entropy()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagmaxInds
+###  AverageFrequencyBodyBodyAccelJerkMagmaxInds
 Average of the original data set's  fBodyBodyAccJerkMag-maxInds  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagMeanFreq
+###  AverageFrequencyBodyBodyAccelJerkMagMeanFreq
 Average of the original data set's  fBodyBodyAccJerkMag-meanFreq()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagskewness
+###  AverageFrequencyBodyBodyAccelJerkMagskewness
 Average of the original data set's  fBodyBodyAccJerkMag-skewness()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyAccelJerkMagkurtosis
+###  AverageFrequencyBodyBodyAccelJerkMagkurtosis
 Average of the original data set's  fBodyBodyAccJerkMag-kurtosis()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagMean
+###  AverageFrequencyBodyBodyGyroMagMean
 Average of the original data set's  fBodyBodyGyroMag-mean()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagStd
+###  AverageFrequencyBodyBodyGyroMagStd
 Average of the original data set's  fBodyBodyGyroMag-std()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagmad
+###  AverageFrequencyBodyBodyGyroMagmad
 Average of the original data set's  fBodyBodyGyroMag-mad()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagmax
+###  AverageFrequencyBodyBodyGyroMagmax
 Average of the original data set's  fBodyBodyGyroMag-max()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagmin
+###  AverageFrequencyBodyBodyGyroMagmin
 Average of the original data set's  fBodyBodyGyroMag-min()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagsma
+###  AverageFrequencyBodyBodyGyroMagsma
 Average of the original data set's  fBodyBodyGyroMag-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagenergy
+###  AverageFrequencyBodyBodyGyroMagenergy
 Average of the original data set's  fBodyBodyGyroMag-energy()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagiqr
+###  AverageFrequencyBodyBodyGyroMagiqr
 Average of the original data set's  fBodyBodyGyroMag-iqr()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagentropy
+###  AverageFrequencyBodyBodyGyroMagentropy
 Average of the original data set's  fBodyBodyGyroMag-entropy()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagmaxInds
+###  AverageFrequencyBodyBodyGyroMagmaxInds
 Average of the original data set's  fBodyBodyGyroMag-maxInds  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagMeanFreq
+###  AverageFrequencyBodyBodyGyroMagMeanFreq
 Average of the original data set's  fBodyBodyGyroMag-meanFreq()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagskewness
+###  AverageFrequencyBodyBodyGyroMagskewness
 Average of the original data set's  fBodyBodyGyroMag-skewness()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroMagkurtosis
+###  AverageFrequencyBodyBodyGyroMagkurtosis
 Average of the original data set's  fBodyBodyGyroMag-kurtosis()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagMean
+###  AverageFrequencyBodyBodyGyroJerkMagMean
 Average of the original data set's  fBodyBodyGyroJerkMag-mean()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagStd
+###  AverageFrequencyBodyBodyGyroJerkMagStd
 Average of the original data set's  fBodyBodyGyroJerkMag-std()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagmad
+###  AverageFrequencyBodyBodyGyroJerkMagmad
 Average of the original data set's  fBodyBodyGyroJerkMag-mad()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagmax
+###  AverageFrequencyBodyBodyGyroJerkMagmax
 Average of the original data set's  fBodyBodyGyroJerkMag-max()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagmin
+###  AverageFrequencyBodyBodyGyroJerkMagmin
 Average of the original data set's  fBodyBodyGyroJerkMag-min()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagsma
+###  AverageFrequencyBodyBodyGyroJerkMagsma
 Average of the original data set's  fBodyBodyGyroJerkMag-sma()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagenergy
+###  AverageFrequencyBodyBodyGyroJerkMagenergy
 Average of the original data set's  fBodyBodyGyroJerkMag-energy()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagiqr
+###  AverageFrequencyBodyBodyGyroJerkMagiqr
 Average of the original data set's  fBodyBodyGyroJerkMag-iqr()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagentropy
+###  AverageFrequencyBodyBodyGyroJerkMagentropy
 Average of the original data set's  fBodyBodyGyroJerkMag-entropy()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagmaxInds
+###  AverageFrequencyBodyBodyGyroJerkMagmaxInds
 Average of the original data set's  fBodyBodyGyroJerkMag-maxInds  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagMeanFreq
+###  AverageFrequencyBodyBodyGyroJerkMagMeanFreq
 Average of the original data set's  fBodyBodyGyroJerkMag-meanFreq()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagskewness
+###  AverageFrequencyBodyBodyGyroJerkMagskewness
 Average of the original data set's  fBodyBodyGyroJerkMag-skewness()  values.
  * Numeric value between -1 and 1
 
-#  Average fBodyBodyGyroJerkMagkurtosis
+###  AverageFrequencyBodyBodyGyroJerkMagkurtosis
 Average of the original data set's  fBodyBodyGyroJerkMag-kurtosis()  values.
  * Numeric value between -1 and 1
 
-#  Average angletBodyAccelMeangravity
+###  AverageAngletBodyAccelMeangravity
 Average of the original data set's  angle(tBodyAccMean,gravity)  values.
  * Numeric value between -1 and 1
 
-#  Average angletBodyAccelJerkMeangravityMean)
+###  AverageAngletBodyAccelJerkMeangravityMean)
 Average of the original data set's  angle(tBodyAccJerkMean),gravityMean)  values.
  * Numeric value between -1 and 1
 
-#  Average angletBodyGyroMeangravityMean
+###  AverageAngletBodyGyroMeangravityMean
 Average of the original data set's  angle(tBodyGyroMean,gravityMean)  values.
  * Numeric value between -1 and 1
 
-#  Average angletBodyGyroJerkMeangravityMean
+###  AverageAngletBodyGyroJerkMeangravityMean
 Average of the original data set's  angle(tBodyGyroJerkMean,gravityMean)  values.
  * Numeric value between -1 and 1
 
-#  Average angleXgravityMean
+###  AverageAngleXgravityMean
 Average of the original data set's  angle(X,gravityMean)  values.
  * Numeric value between -1 and 1
 
-#  Average angleYgravityMean
+###  AverageAngleYgravityMean
 Average of the original data set's  angle(Y,gravityMean)  values.
  * Numeric value between -1 and 1
 
-#  Average angleZgravityMean
+###  AverageAngleZgravityMean
 Average of the original data set's  angle(Z,gravityMean)  values.
  * Numeric value between -1 and 1
 
